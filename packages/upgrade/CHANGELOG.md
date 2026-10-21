@@ -1,5 +1,11 @@
 # @astrojs/upgrade
 
+## 0.8.1
+
+### Patch Changes
+
+- [#18466](https://github.com/withastro/astro/pull/18466) [`d7f5c54`](https://github.com/withastro/astro/commit/d7f5c54edf40b388b08329ead308bb0b6fbf6bd7) Thanks [@astro-factory](https://github.com/apps/astro-factory)! - Fixes `@astrojs/upgrade [version]` ignoring an exact version number (for example `npx @astrojs/upgrade 7.3.8`) and upgrading to the latest release instead
+
 ## 0.8.0
 
 ### Minor Changes
